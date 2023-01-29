@@ -80,9 +80,7 @@ ${COMPILER}:
 #
 ${COMPILER}/main.axf: ${COMPILER}/main.o
 ${COMPILER}/main.axf: ${COMPILER}/startup_${COMPILER}.o
-${COMPILER}/main.axf: ${COMPILER}/GPIO.o
 ${COMPILER}/main.axf: ${COMPILER}/PLL.o
-${COMPILER}/main.axf: ${COMPILER}/UART.o
 ${COMPILER}/main.axf: ${COMPILER}/PWM.o
 ${COMPILER}/main.axf: ${COMPILER}/ADC.o
 ${COMPILER}/main.axf: main.ld

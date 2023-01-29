@@ -1,8 +1,8 @@
 /*
  * ADC.h
  *
- *  Created on: 23/12/2022
- *      Author: Ashley Roxana Reséndiz Sánchez 
+ *  Created on: 04/11/2019
+ *      Author: ravenelco
  */
 
 #ifndef ADC_ADC_H_
